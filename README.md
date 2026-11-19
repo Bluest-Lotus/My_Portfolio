@@ -1,35 +1,55 @@
-# John Beverly — Portfolio MVP (Blueprint Edition)
+# John Beverly | Engineering Portfolio
 
-A complete static portfolio designed to publish today on GitHub Pages. No frameworks, build process, paid hosting, missing images, or placeholder contact links.
+**Robotics • Automation • Engineering • Innovation**
 
-## Publish today
+A personal portfolio highlighting my technical experience, engineering projects, and involvement in robotics, automation, and applied innovation.
 
-1. Extract this ZIP and open `index.html` to preview.
-2. On GitHub, create a public repository named `YOUR_USERNAME.github.io` (substitute your GitHub username).
-3. Upload the **files inside** the `engineering-portfolio` folder directly to the repository root: `index.html`, `style.css`, `script.js` and `README.md`.
-4. Go to **Settings → Pages → Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then Save.
-5. Visit `https://YOUR_USERNAME.github.io` after deployment finishes.
+I am an Electromechanical Engineering Technology student at St. Clair College with interests in industrial automation, robotics, product development, and emerging technologies. This portfolio documents my work, technical development, and contributions to collaborative engineering initiatives.
 
-You can also use a repository named `portfolio` and publish at `https://YOUR_USERNAME.github.io/portfolio/`.
+## About the Portfolio
 
-## What's in this release
+The website brings together selected engineering work, technical capabilities, leadership experience, and professional accomplishments in one place.
 
-- Muted navy blueprint grid and technical illustrations (all CSS, no missing image assets)
-- Intro, about, four project highlights, skills, experience, closing section
-- Mobile menu, filterable project cards, keyboard focus styles, reduced-motion support
-- No fake case-study links, unfinished sections, placeholder email addresses or broken social profiles
+- **Engineering Projects:** Robotics, automated manufacturing, prototyping, and product development.
+- **Technical Skills:** Industrial robotics, PLC programming, electrical systems, CAD, and fabrication.
+- **Leadership & Innovation:** Student organizations, collaborative initiatives, and STEM education.
+- **Professional Experience:** Education, work experience, and selected achievements.
 
-## Future upgrades (optional)
+## Design Philosophy
 
-- Add real project photos and case-study pages when ready.
-- Add a verified email, LinkedIn and GitHub profile to the closing section.
-- Add a downloadable resume only after you have a final PDF.
-- Add project demos or videos as they become public.
+The visual design draws from engineering blueprints and technical drafting, combining a muted navy palette, geometric illustrations, and subtle grid patterns. It emphasizes clarity, accessibility, responsive layouts, and straightforward navigation.
 
-## Editing
+## Local Development
 
-- `index.html` contains all copy and sections.
-- `style.css` controls the palette, blueprint grid and illustrations.
-- `script.js` controls the mobile menu and project filters.
+Clone the repository:
 
-Before sharing professionally, review project claims and experience dates for accuracy. The site is not automatically deployed to your GitHub account.
+```bash
+git clone https://github.com/Bluest-Lotus/My_Portfolio.git
+```
+
+Open `index.html` in a browser. No installation or build process is required.
+
+## Project Structure
+
+```text
+/
+├── index.html    # Website content and structure
+├── style.css     # Visual styling and responsive layouts
+├── script.js     # Interactive functionality
+├── resume.pdf    # Downloadable résumé
+└── README.md     # Repository documentation
+```
+
+## Deployment
+
+The portfolio is published through GitHub Pages using the repository's `main` branch and root directory.
+
+**Website:** https://bluest-lotus.github.io/My_Portfolio/
+
+## Contact
+
+For professional inquiries and collaboration opportunities, connect with me through [LinkedIn](https://www.linkedin.com/in/john-beverly-iv/). You can also find my repositories on [GitHub](https://github.com/Bluest-Lotus).
+
+---
+
+© 2026 John Beverly. All rights reserved.
