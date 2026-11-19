@@ -16,3 +16,5 @@ body{background-color:var(--bg);background-image:linear-gradient(rgba(131,180,20
 .section-number{color:#a9d7e5}
 .project-art{border-bottom:1px solid #3a5969}
 @media(max-width:700px){body{background-attachment:scroll;background-size:72px 72px,72px 72px,24px 24px,24px 24px,100% 100%}nav{background:#122332}}
+
+/* Public profile links and detailed assembly blueprint */.contact .actions{max-width:760px}.contact .btn{white-space:nowrap}footer a:hover{color:#fff}
